@@ -1,0 +1,13 @@
+current directory: /Users/sayali_1403/Documents/Projects/rn_techiebutler_ass/rn_techiebutler_ass/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+/Users/sayali_1403/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/sayali_1403/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20240408-10420-5dciep.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sayali_1403/Documents/Projects/rn_techiebutler_ass/rn_techiebutler_ass/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/sayali_1403/Documents/Projects/rn_techiebutler_ass/rn_techiebutler_ass/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/sayali_1403/Documents/Projects/rn_techiebutler_ass/rn_techiebutler_ass/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install
